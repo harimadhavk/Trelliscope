@@ -1,0 +1,1 @@
+var Mousetrap  = window.Mousetrap  !== undefined ? window.Mousetrap  : Mousetrap ;
