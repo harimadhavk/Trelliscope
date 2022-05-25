@@ -1,5 +1,5 @@
 {
-  "name": "visual",
+  "name": "visual_test",
   "dependencies": {
     "@types/d3": "^3.0.0",
     "@types/jquery": "^3.3.4",
